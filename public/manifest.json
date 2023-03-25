@@ -1,0 +1,90 @@
+{
+    "screenshots": [
+        {
+            "src": "https://res.cloudinary.com/dupfwlkgb/image/upload/v1678190028/avacado1_amd4ew.png",
+            "sizes": "1920x1080",
+            "type": "image/png",
+            "description": "Health App"
+        },
+        {
+            "src": "https://res.cloudinary.com/dupfwlkgb/image/upload/v1678190025/avacado2_vtzfyy.png",
+            "sizes": "1920x1080",
+            "type": "image/png",
+            "description": "Health App"
+        },
+        {
+            "src": "https://res.cloudinary.com/dupfwlkgb/image/upload/v1678190021/avacado3_shlovl.png",
+            "sizes": "1920x1080",
+            "type": "image/png",
+            "description": "Health App"
+        }
+    ],
+    "shortcuts": [],
+    "description": "ارائه برنامه های متنوع غذایی، ورزشی، دستور پخت غذاهای سالم، کالری شماری رایگان و ...",
+    "name": "Avacado",
+    "short_name": "Avacado",
+    "theme_color": "#e5e5e5",
+    "background_color": "#e5e5e5",
+    "display": "standalone",
+    "orientation": "portrait",
+    "start_url": "/",
+    "scope": "./",
+    "categories": [
+        "fitness",
+        "health"
+    ],
+    "lang": "fa",
+    "display_override": [
+        "fullscreen"
+    ],
+    "icons": [
+        {
+            "src": "icons/icon-72x72.png",
+            "sizes": "72x72",
+            "type": "image/png",
+            "purpose": "maskable any"
+        },
+        {
+            "src": "icons/icon-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png",
+            "purpose": "maskable any"
+        },
+        {
+            "src": "icons/icon-128x128.png",
+            "sizes": "128x128",
+            "type": "image/png",
+            "purpose": "maskable any"
+        },
+        {
+            "src": "icons/icon-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png",
+            "purpose": "maskable any"
+        },
+        {
+            "src": "icons/icon-152x152.png",
+            "sizes": "152x152",
+            "type": "image/png",
+            "purpose": "maskable any"
+        },
+        {
+            "src": "icons/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable any"
+        },
+        {
+            "src": "icons/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "icons/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable any"
+        }
+    ]
+}
